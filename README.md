@@ -1,7 +1,13 @@
-Product store is full stack web app build using React Js , Node js and Mongodb atlas.
-React js -> front-end. 
-Node js -> back-end.
-Mongodb atlas -> for storing products in mongodb cloud cluster.
+# Product-Sore
+Product store App is a full stack Application. Build using:
+>React js
+>Node js
+>MongoDb Atlas
 
+## Description
+>users can login into the application , signup where data is stored in mongodb cloud cluster.
+users can add, edit, delete products.
+pagination is also implemented using limit and skip functionality of mongodb
 
-In this application, user can login, signup, add products, edit products, delete products.
+## limitations
+>Doesn't store user and products mapping, so shows all the products for all users.
